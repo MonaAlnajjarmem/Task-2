@@ -1,0 +1,460 @@
+.essential {
+  margin-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+
+  padding: 5px;
+  border: 2px solid gainsboro;
+}
+
+
+
+
+img {
+  width: 150px;
+  /* يمكنك تعديل العرض حسب الحاجة */
+  height: 150px;
+  /* يجب أن يكون الطول مساويًا للعرض للحصول على شكل دائري */
+  border-radius: 50%;
+  /* هذه الخاصية تجعل الصورة دائرية */
+  object-fit: cover;
+  /* لضمان أن الصورة تغطي كامل المساحة */
+
+
+}
+
+.b {
+  text-align: center;
+  background-color: darkgray;
+  padding: 30px;
+}
+
+h2 {
+  font-size: large;
+  color: rgb(72, 70, 70);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Info {
+  width: 80%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+/* 
+.c1 {
+  padding: 50px;
+}
+.c2{
+} */
+
+.icon {
+  width: 300px;
+  height: 150;
+  background-color: rgb(31, 120, 237);
+  /* text-align: center; */
+  /* padding: 20px;  */
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+
+
+  border: 2px solid rgb(45, 120, 237);
+  /* border-radius: 20px; */
+  text-decoration: none;
+  border-radius: 5px;
+
+}
+
+.Info span {
+  color: white;
+}
+
+.cc {
+  padding-left: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.c1 {
+
+
+  /* margin: 20px;
+  border: 2px solid gainsboro;
+  /* border-radius: 20px; */
+}
+
+.a {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.d {
+  padding-left: 20px;
+
+  /* margin: 20px;
+  padding-left: 45px;
+border: solid; */
+}
+
+.d h4 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.dd {
+  /* padding-left: 45px; */
+
+  width: 25%;
+  gap: 20px;
+  display: flex;
+  justify-content: start;
+}
+
+.e {
+  padding-left: 20px;
+
+
+}
+
+.ee {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.eee {
+
+  width: 80%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-container {
+  display: flex;
+  gap: 50px;
+  /* مسافة بين العناصر */
+  justify-content: center;
+
+}
+
+/* .e1 {
+  padding: 20px;
+  background-color: cornflowerblue;
+  display: flex;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  ;
+}
+
+.e2 {
+  padding: 20px;
+  background-color: cornflowerblue;
+  display: flex;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  ;
+
+}
+
+.e3 {
+  padding: 20px;
+  background-color: cornflowerblue;
+  display: flex;
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  ;
+} */
+
+.ff {
+  padding-left: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.fff {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: auto;
+}
+
+.f1 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.f2 {
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.f3 {
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+h3 {
+  color: rgb(87, 85, 85);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.e1 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+
+}
+
+.e2 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.e3 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.fe {
+  padding: 20px;
+  display: flex;
+}
+
+.hh {
+
+  padding-top: 20px;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: auto;
+}
+
+.hh1 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.hh2 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.hh3 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.hh4 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.hh5 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+
+}
+
+.hh6 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+}
+
+.u1 {
+  padding: 20px;
+  display: flex;
+}
+
+.uu {
+  padding-top: 20px;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: auto;
+
+}
+
+.u2 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+}
+
+.u3 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+}
+
+.u4 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+}
+
+.u5 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+}
+
+.u6 {
+
+  margin-bottom: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 2px solid rgb(45, 120, 237);
+  background-color: rgb(31, 120, 237);
+  color: white;
+  border-radius: 5px;
+}
+.hhr{
+  border-top: 2px solid gainsboro; /* سمك ولون الخط */
+  margin: 20px 0; /* مسافة من الأعلى والأسفل */
+}

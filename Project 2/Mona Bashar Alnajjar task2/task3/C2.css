@@ -1,0 +1,468 @@
+body,
+button {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    width: 80%;
+    border: 2px solid black;
+
+    background-color: black;
+    overflow: hidden;
+    margin: auto;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.Hero {
+    width: 80%;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+
+}
+
+.a {
+
+    width: 100vh;
+    height: 100vh;
+    margin: auto;
+    border: 2px solid white;
+    padding: 80px;
+    /* background-image: url("./photo_2024-08-29_00-21-55.jpg"); */
+    background-image: url("././images/blobid1640182793460.jpg");
+    background-position: center;
+    /* background-color: cornflowerblue; */
+    box-sizing: border-box;
+    background-size: cover;
+
+}
+
+.aa {
+    margin: auto;
+    padding: 222px 17px;
+    text-align: center;
+    color: red
+}
+
+.aaa {
+    background-color: ;
+    margin: auto;
+    text-align: center;
+}
+
+.b {
+    width: auto;
+    border: 2px solid white;
+    padding: 100px;
+}
+
+.c {
+    background-color: rgb(255, 221, 213);
+    width: auto;
+    background-color: rgb(255, 221, 213);
+    padding: 200px;
+
+}
+
+.cc {
+
+    width: 50%;
+    /* text-align: center; */
+    margin: auto;
+    padding: auto;
+}
+
+.c {
+    text-align: center;
+    padding: 50px;
+    width: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.cc {
+    width: auto;
+    padding: 50px;
+    margin: auto;
+    background-color: rgb(255, 221, 213);
+}
+
+.c1 {
+    width: auto;
+    background-color: rgb(255, 221, 213);
+}
+
+.c2 {
+    width: auto;
+    background-color: rgb(255, 221, 213);
+}
+
+.c3 {
+    width: auto;
+    border: 2px solid rgb(255, 221, 213);
+}
+
+.c4 {
+    width: auto;
+    border: 2px solid rgb(255, 221, 213);
+}
+
+.c5 {
+    width: auto;
+    border: 2px solid rgb(255, 221, 213);
+}
+
+
+.d1 {
+    width: auto;
+    border: 2px solid white;
+}
+
+.d2 {
+    width: auto;
+    border: 2px solid white;
+}
+
+.d3 {
+    width: auto;
+    border: 2px solid white;
+}
+
+.dd {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    /* padding: 14px; */
+    gap: 20px;
+    padding: 50px;
+
+
+}
+
+.d {
+    padding: 50px;
+
+
+}
+
+
+.e1 {
+    width: auto;
+    text-align: center;
+    background-color: rgb(255, 221, 213);
+}
+
+.e2 {
+    width: auto;
+    text-align: center;
+    background-color: rgb(255, 221, 213);
+}
+
+.e3 {
+    width: auto;
+    text-align: center;
+    background-color: rgb(255, 221, 213);
+}
+
+.ee {
+    height: 20%;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.e {
+    padding: 50px;
+    margin: auto;
+    background-color: rgb(255, 221, 213);
+}
+
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.f {
+    width: auto;
+
+    background-color: peachpuff;
+    border: 2px solid rgb(233, 160, 70);
+    /* gap: 10px; */
+}
+
+.g {
+    width: auto;
+    background-color: peachpuff;
+    /* background-color: rgb(247, 192, 144); */
+    border: 2px solid rgb(233, 160, 70);
+
+
+}
+
+.k {
+    width: auto;
+    background-color: peachpuff;
+    border: 2px solid rgb(233, 160, 70);
+
+}
+
+.fg {
+    padding: 50px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.f11 {
+    display: flex;
+    justify-content: left;
+}
+
+.g11 {
+    display: flex;
+    justify-content: left;
+}
+
+.k11 {
+    display: flex;
+    justify-content: left;
+}
+
+.g111 {
+    margin: 5px;
+    display: flex;
+    border: 3px solid rgb(239, 208, 105);
+    background-color: rgb(250, 250, 160);
+    text-align: start;
+}
+
+.k111 {
+    margin: 5px;
+    display: flex;
+    border: 3px solid rgb(239, 208, 105);
+    background-color: rgb(250, 250, 160);
+    text-align: start;
+}
+
+.f111 {
+    margin: 5px;
+    display: flex;
+    border: 3px solid rgb(239, 208, 105);
+    background-color: rgb(250, 250, 160);
+    text-align: start;
+}
+
+
+
+.l {
+    width: auto;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    background-color: rgb(255, 221, 213);
+}
+
+.L3 {
+    text-align: center;
+    width: auto;
+    margin: auto;
+
+
+}
+
+.l1 {
+    text-align: center;
+    width: auto;
+    margin: auto;
+
+
+}
+
+
+
+.o {
+    padding: 50px;
+}
+
+.o1 {
+    color: black;
+    text-decoration: none;
+}
+
+.o2 {
+    color: black;
+    text-decoration: none;
+
+}
+
+
+.y1 {
+
+    background-color: black;
+
+    width: 80%;
+    border: 2px solid black;
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+
+}
+
+.y1 ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.y1 ul li {
+    margin: 0 10px;
+}
+
+.y1 ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+.y1 ul li a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+}
+
+
+
+/* Style the button */
+.colored-button {
+    background-color: black;
+    /* لون الخلفية */
+    color: white;
+    /* لون النص */
+    padding: 2px;
+    /* الحشوة */
+    text-align: center;
+    /* محاذاة النص */
+    text-decoration: none;
+    /* إزالة التزيين */
+    display: inline-block;
+    /* عرض الزر */
+    /* font-size: 16px; */
+    /* حجم الخط */
+    margin: 0;
+    /* الهوامش */
+    cursor: pointer;
+    /* تغيير شكل المؤشر عند التمرير فوق الزر */
+    border: none;
+    /* إزالة الحدود */
+    border-radius: 2px;
+}
+
+.colored-button:hover {
+    background-color: burlywood;
+    /* لون الخلفية عند التمرير */
+}
+
+.v1 {
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 25%;
+    text-align: start;
+}
+
+.v2 {
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 25%;
+    text-align: start;
+}
+
+.v3 {
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 25%;
+    text-align: start;
+}
+
+.p1 {
+    margin: auto;
+    background-image: url("././images/./1.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+
+}
+
+.p2 {
+    margin: auto;
+    background-image: url("././images/3.webp");
+    background-size: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+
+}
+
+.p3 {
+    margin: auto;
+    background-image: url("././images/1.jpg");
+    background-size: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+
+}
